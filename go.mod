@@ -1,4 +1,4 @@
-module github.com/luongndcoder/notify-sdk
+module github.com/luongndcoder/notify-sdk-go
 
 go 1.22.4
 
