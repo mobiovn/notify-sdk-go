@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Mobio Notify SDK
 =====================================================
 
@@ -45,8 +44,3 @@ Golang import:
 ```golang
 import "github.com/luongndcoder/notify-sdk-go/notifysdk"
 ```
-=======
-# Notify Sdk
-
-Project thực hiện nhiệm vụ gửi thông báo, email
->>>>>>> 4f2b3bc (Initial commit)
