@@ -1,4 +1,4 @@
-module gitlab.com/nguyenluongdev/notify-sdk-go
+module github.com/mobiovn/notify-sdk-go
 
 go 1.22.4
 

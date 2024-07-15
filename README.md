@@ -5,8 +5,7 @@ Examples
 ========
 ```golang
 package main
-
-import "github.com/luongndcoder/notify-sdk-go/notifysdk"
+import "github.com/mobiovn/notify-sdk-go/notifysdk"
 
 func main() {
 	sdk := notifysdk.GetMobioNotifySDK().Config("sale")
@@ -28,7 +27,7 @@ Using Go Modules
 Import the `notifysdk` package from GitHub in your code:
 
 ```golang
-import "github.com/luongndcoder/notify-sdk-go/notifysdk"
+import "github.com/mobiovn/notify-sdk-go/notifysdk"
 ```
 
 Install the client
@@ -37,10 +36,10 @@ Install the client
 
 Manual install:
 ```bash
-go get -u github.com/luongndcoder/notify-sdk-go/notifysdk
+go get -u github.com/mobiovn/notify-sdk-go/notifysdk
 ```
 
 Golang import:
 ```golang
-import "github.com/luongndcoder/notify-sdk-go/notifysdk"
+import "github.com/mobiovn/notify-sdk-go/notifysdk"
 ```
