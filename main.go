@@ -1,6 +1,6 @@
 package main
 
-import "github.com/luongndcoder/notify-sdk-go/notifysdk"
+import "gitlab.com/nguyenluongdev/notify-sdk-go/notifysdk"
 
 func main() {
 	sdk := notifysdk.GetMobioNotifySDK().Config("sale")
